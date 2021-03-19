@@ -10,7 +10,4 @@
 ### Connnect me via:
 [My facebook] (https://www.facebook.com/minminn1457/)  
 [My email] (thanhminh1452000@gmail.com)
-© 2021 thanh.minh
-Add full contents of README.md
-
-The last modification of README.md
+© 2021 thanh.minh  Add full contents of README.md  The last modification of README.md
